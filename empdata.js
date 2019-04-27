@@ -77,33 +77,5 @@
       "age": "4 Months",
       "rescue_date": "04/12/2019"
     },
-    {
-      "name": "Fiona",
-      "animal": "Myna Bird",
-      "birthday": "03/09/2018",
-      "age": "1 Year",
-      "rescue_date": "03/26/2019"
-    },
-    {
-      "name": "Mousse",
-      "animal": "Turtle",
-      "birthday": "03/08/2010"
-      "age": "9 Years",
-      "rescue_date": "04/15/2019"
-    },
-    {
-      "name": "Cupcake",
-      "animal": "Cat",
-      "birthday": "04/10/2011",
-      "age": "8 Years",
-      "rescue_date": "04/21/2019"
-    },
-    {
-      "name": "Zippy",
-      "animal": "Dog",
-      "birthday": "",
-      "age": "",
-      "rescue_date": ""
-    },
   ]
 }
