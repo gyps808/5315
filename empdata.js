@@ -104,6 +104,6 @@
       "birthday": "",
       "age": "",
       "rescue_date": ""
-    },
+    }
   ]
 }
