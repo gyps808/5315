@@ -3,16 +3,16 @@
     {
       "name": "George",
       "animal": "dog",
-      "birthday": "$170,750",
-      "age": "2011/07/25",
-      "rescue_date": "8422"
+      "birthday": "04/02/2010",
+      "age": "9",
+      "rescue_date": "04/25/2012"
     },
     {
       "name": "Fred",
-      "animal": "Integration Specialist",
-      "birthday": "$372,000",
-      "age": "2012/12/02",
-      "rescue_date": "4804"
+      "animal": "cat",
+      "birthday": "07/08/2010",
+      "age": "6",
+      "rescue_date": "04/27/2019"
     },
     {
       "name": "Lady",
