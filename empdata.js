@@ -13,7 +13,7 @@
       "animal": "Integration Specialist",
       "birthday": "$372,000",
       "age": "2012/12/02",
-      "owner": "New York",
+      "owner": "Joe Taco",
       "rescue_date": "4804"
     },
     {
