@@ -87,7 +87,7 @@
     {
       "name": "Mousse",
       "animal": "Turtle",
-      "birthday": "03/08/2010"
+      "birthday": "03/08/2010",
       "age": "9 Years",
       "rescue_date": "04/15/2019"
     },
@@ -101,9 +101,9 @@
     {
       "name": "Zippy",
       "animal": "Dog",
-      "birthday": "",
-      "age": "",
-      "rescue_date": ""
+      "birthday": "02/02/2010",
+      "age": "9 Years",
+      "rescue_date": "03/21/2019"
     }
   ]
 }
