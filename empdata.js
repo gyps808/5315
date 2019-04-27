@@ -10,7 +10,7 @@
     },
     {
       "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
+      "animal": "Integration Specialist",
       "salary": "$372,000",
       "joining_date": "2012/12/02",
       "office": "New York",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
+      "animal": "Junior Technical Author",
       "salary": "$86,000",
       "joining_date": "2009/01/12",
       "office": "San Francisco",
@@ -26,7 +26,7 @@
     },
     {
       "name": "Airi Satou",
-      "designation": "Accountant",
+      "animal": "Accountant",
       "salary": "$162,700",
       "joining_date": "2008/11/28",
       "office": "Tokyo",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
+      "animal": "Pre-Sales Support",
       "salary": "$106,450",
       "joining_date": "2011/12/12",
       "office": "New York",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Shad Decker",
-      "designation": "Regional Director",
+      "animal": "Regional Director",
       "salary": "$183,000",
       "joining_date": "2008/11/13",
       "office": "Edinburgh",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
+      "animal": "Senior Javascript Developer",
       "salary": "$433,060",
       "joining_date": "2012/03/29",
       "office": "Edinburgh",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
+      "animal": "Senior Marketing Designer",
       "salary": "$313,500",
       "joining_date": "2012/12/18",
       "office": "London",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
+      "animal": "Javascript Developer",
       "salary": "$205,500",
       "joining_date": "2009/09/15",
       "office": "San Francisco",
@@ -74,7 +74,7 @@
     },
     {
       "name": "Dai Rios",
-      "designation": "Personnel Lead",
+      "animal": "Personnel Lead",
       "salary": "$217,500",
       "joining_date": "2012/09/26",
       "office": "Edinburgh",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
+      "animal": "Sales Assistant",
       "salary": "$137,500",
       "joining_date": "2012/08/06",
       "office": "San Francisco",
@@ -90,7 +90,7 @@
     },
     {
       "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
+      "animal": "Integration Specialist",
       "salary": "$327,900",
       "joining_date": "2010/10/14",
       "office": "Tokyo",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Sonya Frost",
-      "designation": "Software Engineer",
+      "animal": "Software Engineer",
       "salary": "$103,600",
       "joining_date": "2008/12/13",
       "office": "Edinburgh",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Jena Gaines",
-      "designation": "Office Manager",
+      "animal": "Office Manager",
       "salary": "$90,560",
       "joining_date": "2008/12/19",
       "office": "London",
@@ -114,7 +114,7 @@
     },
     {
       "name": "Quinn Flynn",
-      "designation": "Support Lead",
+      "animal": "Support Lead",
       "salary": "$342,000",
       "joining_date": "2013/03/03",
       "office": "Edinburgh",
