@@ -101,9 +101,9 @@
     {
       "name": "Zippy",
       "animal": "Dog",
-      "birthday": "02/02/2010",
-      "age": "9 Years",
-      "rescue_date": "03/21/2019"
+      "birthday": "",
+      "age": "",
+      "rescue_date": ""
     },
     {
   ]
