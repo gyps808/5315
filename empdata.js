@@ -2,38 +2,38 @@
   "data": [
     {
       "name": "George",
-      "animal": "dog",
+      "animal": "Dog",
       "birthday": "04/02/2010",
       "age": "9",
       "rescue_date": "04/25/2012"
     },
     {
       "name": "Fred",
-      "animal": "cat",
+      "animal": "Cat",
       "birthday": "07/08/2010",
       "age": "6",
       "rescue_date": "04/27/2019"
     },
     {
       "name": "Lady",
-      "animal": "Junior Technical Author",
-      "birthday": "$86,000",
-      "age": "2009/01/12",
-      "rescue_date": "1562"
+      "animal": "Dog",
+      "birthday": "01/03/2019",
+      "age": "4 Months",
+      "rescue_date": "04/26/2019"
     },
     {
       "name": "Finn",
-      "animal": "Accountant",
-      "birthday": "$162,700",
-      "age": "2008/11/28",
-      "rescue_date": "5407"
+      "animal": "Rabbit",
+      "birthday": "12/16/2018",
+      "age": "4 Month",
+      "rescue_date": "04/20/2019"
     },
     {
       "name": "Phoebe",
-      "animal": "Pre-Sales Support",
-      "birthday": "$106,450",
-      "age": "2011/12/12",
-      "rescue_date": "8330"
+      "animal": "Cat",
+      "birthday": "03/11/2012",
+      "age": "17",
+      "rescue_date": "04/21/2019"
     },
     {
       "name": "Chad",
