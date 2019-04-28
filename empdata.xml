@@ -2,7 +2,7 @@
   <employees>
     <data>
       <name>Boo</name>
-      <animal>Accountant</animal>
+      <animal>Dog</animal>
       <salary>$170,750</salary>
       <joining_date>2011/07/25</joining_date>
       <office>Tokyo</office>
