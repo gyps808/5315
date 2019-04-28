@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>Boo</name>
-      <designation>Accountant</designation>
+      <name>James Bond</name>
+      <animal>Accountant</animal>
       <salary>$170,750</salary>
       <joining_date>2011/07/25</joining_date>
       <office>Tokyo</office>
@@ -10,7 +10,7 @@
     </data>
     <data>
       <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
+      <animal>Accountant</animal>
       <salary>$372,000</salary>
       <joining_date>2012/12/02</joining_date>
       <office>New York</office>
@@ -18,7 +18,7 @@
     </data>
     <data>
       <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
+      <animal>Accountant</animal>
       <salary>$86,000</salary>
       <joining_date>2009/01/12</joining_date>
       <office>San Francisco</office>
@@ -26,7 +26,7 @@
     </data>
     <data>
       <name>Airi Satou</name>
-      <designation>Accountant</designation>
+      <animal>Accountant</animal>
       <salary>$162,700</salary>
       <joining_date>2008/11/28</joining_date>
       <office>Tokyo</office>
@@ -34,7 +34,7 @@
     </data>
     <data>
       <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
+      <animal>Accountant</animal>
       <salary>$106,450</salary>
       <joining_date>2011/12/12</joining_date>
       <office>New York</office>
@@ -42,7 +42,7 @@
     </data>
     <data>
       <name>Shad Decker</name>
-      <designation>Regional Director</designation>
+      <animal>Accountant</animal>
       <salary>$183,000</salary>
       <joining_date>2008/11/13</joining_date>
       <office>Edinburgh</office>
@@ -50,7 +50,7 @@
     </data>
     <data>
       <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
+      <animal>Accountant</animal>
       <salary>$433,060</salary>
       <joining_date>2012/03/29</joining_date>
       <office>Edinburgh</office>
@@ -58,7 +58,7 @@
     </data>
     <data>
       <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
+      <animal>Accountant</animal>
       <salary>$313,500</salary>
       <joining_date>2012/12/18</joining_date>
       <office>London</office>
@@ -66,7 +66,7 @@
     </data>
     <data>
       <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
+      <animal>Accountant</animal>
       <salary>$205,500</salary>
       <joining_date>2009/09/15</joining_date>
       <office>San Francisco</office>
@@ -74,7 +74,7 @@
     </data>
     <data>
       <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
+      <animal>Accountant</animal>
       <salary>$217,500</salary>
       <joining_date>2012/09/26</joining_date>
       <office>Edinburgh</office>
@@ -82,7 +82,7 @@
     </data>
     <data>
       <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
+      <animal>Accountant</animal>
       <salary>$137,500</salary>
       <joining_date>2012/08/06</joining_date>
       <office>San Francisco</office>
@@ -90,7 +90,7 @@
     </data>
     <data>
       <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
+      <animal>Accountant</animal>
       <salary>$327,900</salary>
       <joining_date>2010/10/14</joining_date>
       <office>Tokyo</office>
@@ -98,7 +98,7 @@
     </data>
     <data>
       <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
+      <animal>Accountant</animal>
       <salary>$103,600</salary>
       <joining_date>2008/12/13</joining_date>
       <office>Edinburgh</office>
@@ -106,7 +106,7 @@
     </data>
     <data>
       <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
+      <animal>Accountant</animal>
       <salary>$90,560</salary>
       <joining_date>2008/12/19</joining_date>
       <office>London</office>
@@ -114,7 +114,7 @@
     </data>
     <data>
       <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
+      <animal>Accountant</animal>
       <salary>$342,000</salary>
       <joining_date>2013/03/03</joining_date>
       <office>Edinburgh</office>
